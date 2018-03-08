@@ -13,7 +13,9 @@ If you think that these can be improved in anyway, please start an issue or pull
 ![Web Developer Roadmap](https://i.imgur.com/NKRROCO.jpg)
 
  
-##  Embedded design
+##  Entry Level
+ 
+![Web Developer Roadmap](https://i.imgur.com/cSTcVxX.jpg)
  
  
 ## 🎨 Fast high Speed PCB design
