@@ -6,7 +6,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think that this map can be improved in anyway, please start an issue or pull request, I’ll be maintaining and updating this repository yearly, the source files can be edited using [Balsamiq Mockups](https://balsamiq.com/download/) 
 
-** A special thanks to my friends in the Iranian Twitter community (Electronics and Embedded Systems Engineers) for their help in updating this roadmap. **
+A special thanks to my friends in the Iranian Twitter community (Electronics and Embedded Systems Engineers) for their help in updating this roadmap.
 ---
 ![EmbeddedRoadmap](EmbbededRoadmap2022.png)
 
