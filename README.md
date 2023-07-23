@@ -1,23 +1,13 @@
-# Embedded Software Engineering RoadMap 2022
+# Embedded Engineering Roadmap
 
-> This is a work in progress... permanently
+This is a roadmap for individuals aspiring to build a career as an Embedded Developer or Embedded Engineer.
+In order to assist beginners, steps have been taken to create a roadmap that is straightforward and easy to comprehend.
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become an embedded software engineer. I made these charts to simplify the perspective of learning several technologies used in the industry especially in North America.
+If you think that this map can be improved in anyway, please start an issue or pull request, I’ll be maintaining and updating this repository yearly, the source file can be edited using [Balsamiq Mockups](https://balsamiq.com/download/) 
 
-If you think that this map can be improved in anyway, please start an issue or pull request, I’ll be maintaining and updating this repository yearly, the source files can be edited using [Balsamiq Mockups](https://balsamiq.com/download/) 
+**A special thanks to my friends in the Iranian Twitter community (Electronics and Embedded Systems Engineers) for their help in updating this roadmap.**
 
-A special thanks to my friends in the Iranian Twitter community (Electronics and Embedded Systems Engineers) for their help in updating this roadmap.
 ---
-![EmbeddedRoadmap](EmbbededRoadmap2022.png)
+![EmbeddedRoadmap](EmbeddedRoadmap.png)
 
-
-## 💻 General SkillSet
- 
-## 🗺️ Entry Level 
- 
-## 🎨 Fast high Speed PCB design
-
-## 🚗 Automotive
-
-## 🚀 Aeroespacial
 
