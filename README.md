@@ -8,6 +8,7 @@ If you think that this map can be improved in anyway, please start an issue or p
 **A special thanks to my friends in the Iranian Twitter community (Electronics and Embedded Systems Engineers) for their help in updating this roadmap.**
 
 ---
-![EmbeddedRoadmap](EmbeddedRoadmap.png)
+
+![EmbeddedRoadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/assets/1549028/942557d5-5716-4908-b90d-d552d28395dd)
 
 
