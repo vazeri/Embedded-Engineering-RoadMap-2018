@@ -9,4 +9,4 @@ If you think that this map can be improved in anyway, please start an issue or p
 
 ---
 
-![EmbeddedRoadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/assets/1549028/dd96a0b1-6d8a-4d41-b87a-efff54ec732b)
+![EmbeddedRoadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/assets/1549028/8f5d77ac-ab76-4893-af37-a1af060e888d)
